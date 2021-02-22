@@ -11,8 +11,10 @@ page_sections:
     link_text: Admissions
   - link: "/headmaster-welcome"
     link_text: Headmaster's Welcome
-  - link: "#customize"
-    link_text: Customize
+  - link: "/about-us"
+    link_text: About Us
+  - link: "/academic"
+    link_text: Academic
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
